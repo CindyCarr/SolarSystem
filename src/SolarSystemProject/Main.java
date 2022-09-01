@@ -18,5 +18,10 @@ public class Main {
         omaro.name = "ferro";
         omaro.radius = 1234455;
         omaro.color = "pink";
+
+        PlanetX2 pp=new PlanetX2();
+        pp.color="pink";
+        pp.radius="39i4394km";
+        pp.size="343434";
     }
 }
