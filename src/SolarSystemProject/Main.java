@@ -20,6 +20,7 @@ public class Main {
         omaro.color = "pink";
 
 
+
         planetX1 fr=new planetX1();
         fr.color="red";
         fr.radius="23232323";
@@ -29,6 +30,14 @@ public class Main {
         pp.color="pink";
         pp.radius="39i4394km";
         pp.size="343434";
+
+        //developing planet1
+
+        Planet1 superplanet=new Planet1();
+        superplanet.color="magenta";
+        superplanet.name="hash";
+        superplanet.size="545488km";
+
 
     }
 }
