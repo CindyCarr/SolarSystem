@@ -19,9 +19,16 @@ public class Main {
         omaro.radius = 1234455;
         omaro.color = "pink";
 
+
         planetX1 fr=new planetX1();
         fr.color="red";
         fr.radius="23232323";
         fr.size="23232km";
+
+        PlanetX2 pp=new PlanetX2();
+        pp.color="pink";
+        pp.radius="39i4394km";
+        pp.size="343434";
+
     }
 }
